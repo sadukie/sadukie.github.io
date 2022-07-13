@@ -1,0 +1,10 @@
+:root {
+    text-align: center;
+}
+
+li {
+    border-radius: 10px;
+    background-color: dodgerblue;
+    color: lemonchiffon;
+    font-size: large;
+}
