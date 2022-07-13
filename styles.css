@@ -9,4 +9,6 @@ li a, a:hover, a:visited, a:active {
     font-size: large;
     margin: 15px;
     padding: 20px;
+    display: block;
+    list-style: none;
 }
